@@ -6,7 +6,7 @@
 *.txt
 
 #intellij-folder
-.idea/
+.idea/*
 
 # Test binary, build with `go test -c`
 *.test
